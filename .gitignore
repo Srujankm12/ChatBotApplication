@@ -1,0 +1,18 @@
+# Go
+backend/chatbot-server
+backend/*.exe
+backend/tmp/
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.DS_Store
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+.env
