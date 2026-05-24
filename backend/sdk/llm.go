@@ -95,7 +95,7 @@ func sendLog(entry models.InferenceLog) {
 
 	backendURL := os.Getenv("BACKEND_URL")
 	if backendURL == "" {
-		backendURL = "http://localhost:8080"
+		backendURL = "https://chatbotbackendd.onrender.com"
 	}
 
 	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)

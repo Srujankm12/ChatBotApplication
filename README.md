@@ -138,7 +138,7 @@ go run main.go
 ```
 
 Runs on:
-http://localhost:8080
+https://chatbotbackendd.onrender.com
 
 ---
 
@@ -162,7 +162,7 @@ docker-compose up --build
 ```
 
 * Frontend: http://localhost:3000
-* Backend: http://localhost:8080
+* Backend: https://chatbotbackendd.onrender.com
 
 ---
 
